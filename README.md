@@ -1,9 +1,5 @@
 # 🧠 What You Will Learn
-
-Below are the **ten core competencies** you will master, presented in a clean, production-ready Markdown format.
-
 ---
-
 ## 🧩 What You Will Learn
 
 - **Master Python for Artificial Intelligence:** Write efficient Python code, essential for AI and ML programming tasks.
