@@ -1,14 +1,10 @@
-# AI-Mastery-Bootcamp-Complete-Guide-with-1000-Projects
-## AI Algorithms, AI Models, AI Agents, Python to 1000 Real-World AI Projects, AI Agents, MCP, Google A2A, more(AI)
+Static PNG export placeholder for README-dark-banner (Dark Neon Edition).
 
-### What you will learn...
-#### Master Python for Artificial Intelligence: Write efficient Python code, essential for AI and ML programming tasks.
-#### Data Preprocessing Skills for Artificial Intelligence: Prepare, clean, and transform data to enhance model performance.
-#### Statistical Knowledge for Artificial Intelligence: Apply core statistics to understand data patterns and inform decisions.
-#### Build Machine Learning Models for Artificial Intelligence: Develop and fine-tune ML models for classification, regression, and clustering.
-#### Deep Learning Proficiency: Design and train neural networks, including CNNs and RNNs, for image and sequence tasks.
-#### Utilize Transfer Learning: Adapt pre-trained models to new tasks, saving time and resources.
-#### Deploy ML Models with APIs: Create scalable APIs to serve ML models in real-world applications.
-#### Containerize with Docker: Package models for portable deployment across environments.
-#### Monitor and Maintain Models: Track model performance, detect drift, and implement retraining pipelines.
-#### Complete ML Lifecycle: Master end-to-end AI project skills, from data to deployment and ongoing maintenance.
+To generate this image locally:
+1. Open the `README-dark-banner.svg` file in your browser.
+2. Zoom to 100%.
+3. Press `Ctrl + P` (Windows) or `Cmd + P` (Mac) → Print → Save as PDF or use screenshot.
+4. Alternatively, use an SVG converter (e.g., https://svgtopng.com) to export as 1200×260 PNG.
+
+This ensures full compatibility on GitHub and markdown renderers that block inline SVG animation.
+
