@@ -1,5 +1,5 @@
 # 🧠 What You Will Learn
----
+
 ## 🧩 What You Will Learn
 
 - **Master Python for Artificial Intelligence:** Write efficient Python code, essential for AI and ML programming tasks.
