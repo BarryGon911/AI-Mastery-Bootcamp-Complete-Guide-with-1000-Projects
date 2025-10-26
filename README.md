@@ -35,7 +35,6 @@
 </svg>
 
 </div>
-<!-- ░░░ END ANIMATED NEON SVG BANNER ░░░ -->
 
 <div align="center">
 
@@ -45,7 +44,7 @@
 
 </div>
 
-## 🌑 Dark Premium Overview
+## 🌑 Overview
 
 Below are the **ten core competencies** you will master, presented in a clean, production‑ready format.
 
