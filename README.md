@@ -1,9 +1,3 @@
-<!-- ───────────────────────────────────────────────────────────────────── -->
-<!--                WHAT YOU WILL LEARN — DARK NEON EDITION              -->
-<!--                 Style aligned with README.md (Dark Premium)         -->
-<!-- ───────────────────────────────────────────────────────────────────── -->
-
-<!-- ░░░ ANIMATED NEON SVG BANNER ░░░ -->
 <div align="center">
 
 <svg width="1200" height="240" viewBox="0 0 1200 240" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="What You Will Learn — AI‑Mastery Bootcamp" style="max-width:100%;height:auto">
