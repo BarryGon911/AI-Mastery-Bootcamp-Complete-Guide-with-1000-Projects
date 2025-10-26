@@ -1,6 +1,6 @@
 # 🧠 What You Will Learn...
 
-### **Master Python for Artificial Intelligence:** Write efficient Python code, essential for AI and ML programming tasks.
+### Master Python for Artificial Intelligence: Write efficient Python code, essential for AI and ML programming tasks.
 ### **Data Preprocessing Skills for Artificial Intelligence:** Prepare, clean, and transform data to enhance model performance.
 ### **Statistical Knowledge for Artificial Intelligence:** Apply core statistics to understand data patterns and inform decisions.
 ### **Build Machine Learning Models for Artificial Intelligence:** Develop and fine-tune ML models for classification, regression, and clustering.
